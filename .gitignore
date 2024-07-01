@@ -1,0 +1,5 @@
+*.gpx
+*.mp4
+*.html
+venv
+__pycache__
